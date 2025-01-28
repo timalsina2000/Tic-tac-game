@@ -38,9 +38,7 @@ This is a simple **Tic-Tac-Toe** game implemented in HTML, CSS, and JavaScript. 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in a web browser to start playing the game.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
